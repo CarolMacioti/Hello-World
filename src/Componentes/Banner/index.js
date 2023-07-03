@@ -1,6 +1,6 @@
 import styles from './Banner.module.css'
 import circuloColorido from 'assets/circulo_colorido.png'
-import minhaFoto from 'assets/minha_foto.png'
+import minhaFoto from 'assets/minha_foto.jfif'
 
 
 export default function Banner() {
@@ -12,7 +12,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.pargrafo}>
-                Boas vindas ao meu espaço pessoal! Eu sou FULANO DE TAL, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo.
+                Boas vindas ao meu espaço pessoal! Eu sou Carolina Macioti, Desenvolvedora Front-end. Aqui compartilho vários conhecimentos, espero que aprenda algo novo.
                 </p>
             </div>
 
@@ -26,7 +26,7 @@ export default function Banner() {
                 <img 
                     className={styles.minhaFoto}
                     src={minhaFoto}
-                    alt='Foto do Fulano sorrindo'
+                    alt='Foto do Carolina sorrindo'
                 />
             </div>
         </div>

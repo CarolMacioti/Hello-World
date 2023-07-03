@@ -20,15 +20,19 @@ export default function SobreMim() {
                 className={styles.fotoSobreMim}
             />
 
-            <p className={styles.paragrafo}>Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui. </p>
+            <p className={styles.paragrafo}>Seja bem-vinde, me chamo Carolina Farias Macioti, sou bacharela em Direito formada pela Universidade Federal de Pelotas/RS. </p>
 
-            <p className={styles.paragrafo}>Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje. </p>
+            <p className={styles.paragrafo}>Atualmente, sou Desenvolvimento de Software especializada em Programação Front-end, qualificação adquirida através da iniciativa das empresas Oracle e Alura Educacional, criadoras do Projeto ORACLE NEXT EDUCATION, do qual fiz parte da Turma 4. </p>
+            
+            <p className={styles.paragrafo}>O breve relato a seguir, marca o início de uma nova perspectiva, isso em muitos aspectos, tendo em vista minha iminente transição de carreira, já que após inúmeras tentativas de permanecimento em minha antiga profissão, da qual guardo enorme carinho e orgulho, tanto pela trajetória que percorri durante os anos de graduação, quanto pelo período em que a exerci. </p>
 
-            <p className={styles.paragrafo}>No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles. </p>
+            <p className={styles.paragrafo}>Entretanto, o gosto pela tecnologia, por criar algo do, absoluto, zero, o estudo dos conceitos e aplicá-los, sem falar no apêlo visuais do mundo do UX|UI Design, bem como do Desenvolvimento Front-end, ver a "magia" acontecer, tudo isso chamou mais alto. </p>
 
-            <p className={styles.paragrafo}>Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava. </p>
+            <p className={styles.paragrafo}>Sendo assim, aqui estou eu, dando o "start" em minha nova trajetória de vida rumo à um futuro regado à enriquecimento intelectual e, espero, muita satisfação pessoal. </p>
 
-            <p className={styles.paragrafo}>E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time. Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!</p>
+            <p className={styles.paragrafo}>Portanto, torço para que decida seguir nesta jornada junto a mim, aprendendo muito e, é claro, colhendo os frutos que certamente todo o esforço trarão para nós (porque já o considero parte do meu time, subentendendo que escolheu ficar e ver tudo de perto), visto que aqui, pretendo compartilhar cada passo deste desafio que encaro com tanto gosto e dedicação. </p>
+
+            <p className={styles.paragrafo}>Dito isso, reforço, fique por aqui e BORA CODAR MUITO. Espero que se divirta e aprenda bastante junto comigo!</p>
 
         </PostModelo>
     )

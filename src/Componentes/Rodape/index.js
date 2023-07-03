@@ -5,7 +5,7 @@ export default function Rodape() {
     return (
         <footer className={styles.rodape}>
             <MarcaRegistrada />
-            Desenvolvido por ALura
+            Desenvolvido por Carolina em Projeto Oracle Next Education
         </footer>
     )
 }
