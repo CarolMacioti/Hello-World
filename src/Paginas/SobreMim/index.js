@@ -11,7 +11,7 @@ export default function SobreMim() {
             titulo='Sobre mim'
         >
             <h3 className={styles.subtitulo}>
-                Olá, eu sou Carolina!
+                Olá, eu sou Carol!
             </h3>
 
             <img 
